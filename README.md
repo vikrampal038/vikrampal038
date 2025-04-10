@@ -43,13 +43,10 @@ Hello! I'm a passionate and self-motivated coder with over 2 years of hands-on e
 
 **vikrampal038/vikrampal038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-<h2 align="center">📑 Random Quotes 📑</h2>
+<br>
+<h2 align="center">🎮Generates a snake game from a github user contributions graph🎮</h2>
 <br>
 <div align="center">
   
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+![Quote](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
  
-</div> -->
-### By Ashraf Morningstar
-
